@@ -33,5 +33,4 @@ It’s a beginner-friendly project designed to practice:
 
 - Python 3.x installed on your system  
   You can check by running:
-  ```bash
   python --version
